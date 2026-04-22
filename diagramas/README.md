@@ -1,1 +1,1 @@
-Carpeta de documentación
+Diagramas del proyecto
