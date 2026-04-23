@@ -35,7 +35,7 @@ Incluyen:
 ## Código fuente
 El algoritmo final desarrollado en PSeInt se encuentra en:
 
-📁 `/codigo`
+📁 `codigo`
 
 ---
 
