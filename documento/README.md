@@ -9,7 +9,7 @@ En esta carpeta se encuentra el documento final del taller, en el cual se descri
 El documento incluye:
 
 - Introducción al problema
-- Descripción del modelo de desarrollo (prototipo)
+- Descripción del modelo de desarrollo (Modelo de construcción de prototipo )
 - Desarrollo por etapas (prototipos)
 - Diagramas de flujo
 - Pruebas realizadas
