@@ -1,0 +1,27 @@
+PRUEBAS DEL SISTEMA
+
+Se realizaron diferentes pruebas para verificar el correcto funcionamiento del algoritmo:
+
+1. Nota: 2.5 | Asistencia: 70
+Resultado: Pierde por nota y asistencia
+
+2. Nota: 2.5 | Asistencia: 85
+Resultado: Pierde solo por nota
+
+3. Nota: 3.5 | Asistencia: 70
+Resultado: Pierde por inasistencia
+
+4. Nota: 3.5 | Asistencia: 90
+Resultado: Aprueba
+
+5. Nota: 4.5 | Asistencia: 70
+Resultado: Revisión académica
+
+6. Nota: 4.5 | Asistencia: 95
+Resultado: Aprueba con buen desempeño
+
+7. Nota: 6.0 | Asistencia: 90
+Resultado: Datos fuera de rango
+
+Conclusión:
+Las pruebas realizadas permiten verificar que el algoritmo responde correctamente en todos los escenarios planteados.
