@@ -1,2 +1,2 @@
 ## Documento
-[Ver documentación](link-a-tu-pdf)
+[Ver documentación](documento/documentacion_taller_condicionales.pdf.pdf)
