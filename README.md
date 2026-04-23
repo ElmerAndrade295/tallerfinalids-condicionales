@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de un algoritmo que determina el estado 
 ---
 
 ## Modelo de desarrollo aplicado
-Se utilizó el ** Modelo de construcción de prototipo**, el cual permite construir soluciones de forma progresiva mediante versiones iniciales que se van mejorando hasta llegar a una versión final funcional.
+Se utilizó el  Modelo de construcción de prototipo, el cual permite construir soluciones de forma progresiva mediante versiones iniciales que se van mejorando hasta llegar a una versión final funcional.
 
 ---
 
