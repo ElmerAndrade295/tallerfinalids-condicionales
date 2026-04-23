@@ -59,7 +59,7 @@ El algoritmo evalúa la nota y asistencia del estudiante mediante estructuras co
 
 ---
 
-## 👨‍💻 Integrantes
+## Integrantes
 - JUAN SEBASTIAN RUIZ HURTADO
 - ELMER HERNANDO ANDRADE MUÑOZ
 - GUSTAVO ADOLFO DURAN GUZMAN
