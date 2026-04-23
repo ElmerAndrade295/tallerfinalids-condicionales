@@ -23,7 +23,7 @@ Se utilizó el ** Modelo de construcción de prototipo**, el cual permite constr
 ## Diagramas
 Los diagramas del proceso se encuentran en la carpeta:
 
-📁 `/diagramas`
+📁 [/diagramas](https://github.com/ElmerAndrade295/tallerfinalids-condicionales/tree/main/diagramas)
 
 Incluyen:
 - Versión inicial
@@ -35,8 +35,7 @@ Incluyen:
 ## Código fuente
 El algoritmo final desarrollado en PSeInt se encuentra en:
 
-📁 `codigo`
-[Ver documentación](https://github.com/ElmerAndrade295/tallerfinalids-condicionales/tree/main/codigo)
+📁 [/codigo](https://github.com/ElmerAndrade295/tallerfinalids-condicionales/tree/main/codigo)
 
 
 ---
@@ -44,7 +43,7 @@ El algoritmo final desarrollado en PSeInt se encuentra en:
 ## Pruebas realizadas
 Se realizaron diferentes pruebas para validar el correcto funcionamiento del sistema.
 
-📁 `/pruebas`
+📁 [/pruebas](https://github.com/ElmerAndrade295/tallerfinalids-condicionales/tree/main/pruebas)
 
 ---
 
