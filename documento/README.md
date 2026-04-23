@@ -1,1 +1,2 @@
-Carpeta de documentación
+## Documento
+[Ver documentación](link-a-tu-pdf)
