@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de un algoritmo que determina el estado 
 ---
 
 ## Modelo de desarrollo aplicado
-Se utilizó el **modelo de prototipo**, el cual permite construir soluciones de forma progresiva mediante versiones iniciales que se van mejorando hasta llegar a una versión final funcional.
+Se utilizó el ** Modelo de construcción de prototipo**, el cual permite construir soluciones de forma progresiva mediante versiones iniciales que se van mejorando hasta llegar a una versión final funcional.
 
 ---
 
@@ -49,7 +49,7 @@ Se realizaron diferentes pruebas para validar el correcto funcionamiento del sis
 ## Documento
 Puedes ver la documentación completa aquí:
 
-👉 [Ver documentación](PEGA_AQUI_TU_LINK_DEL_PDF)
+[Ver documentación](documentacion_taller_condicionales.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ El algoritmo evalúa la nota y asistencia del estudiante mediante estructuras co
 ---
 
 ## 👨‍💻 Integrantes
-- Tu nombre
-- Compañero 1
-- Compañero 2
-- Compañero 3
+- JUAN SEBASTIAN RUIZ HURTADO
+- ELMER HERNANDO ANDRADE MUÑOZ
+- GUSTAVO ADOLFO DURAN GUZMAN
+- Compañero 4
