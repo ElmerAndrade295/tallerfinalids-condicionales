@@ -36,6 +36,8 @@ Incluyen:
 El algoritmo final desarrollado en PSeInt se encuentra en:
 
 📁 `codigo`
+[Ver documentación](https://github.com/ElmerAndrade295/tallerfinalids-condicionales/tree/main/codigo)
+
 
 ---
 
